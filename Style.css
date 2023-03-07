@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+	font-family: Calibri;
+	font-size: 18px;
+}
+
+.top {
+	text-align: center;
+	font-size: 11px;
+	font-family: Calibri;
+}
+
+.line1 hr {
+	width: 670px;
+    height: 3px;
+    background-color: #000000; 
+}
+
+.line2 hr {
+	width: 670px;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Calibri;
+}
+
+table.content {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td{
+	padding-left: 25px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 11px;
+}
+
+td.space{
+	padding-right: 0px;
+}
+
+.bullet {
+	padding-left: 40px;
+	list-style-type: square;
+}
